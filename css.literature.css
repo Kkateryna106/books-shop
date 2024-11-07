@@ -1,0 +1,156 @@
+body{
+    background-color: #c0ab7a;
+}
+
+.fiction-name{
+font-weight: 700;
+    font-size: 55px;
+    line-height: 40px;
+    color: #71471d;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-family: "Quicksand", serif;
+    word-spacing: 10px;
+    text-decoration-line: none;
+}
+
+.nonfiction-name{
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 40px;
+    color: #71471d;
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-family: "Quicksand", serif;
+    word-spacing: 10px;
+    text-decoration-line: none;
+}
+
+.image-literature{
+    float: right;
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    margin-right: 40px;
+}
+
+.conteiner23{
+    word-spacing: 180px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.image-literature2{
+    float: left;
+    width: 250px;
+    height: 300px;
+    padding-right: 100px;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+
+.conteiner{
+    word-spacing: 8px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    color: #7d4f21;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    margin-right: 290px;
+    font-family: "Quicksand", serif;
+    text-align: right;
+    word-spacing: 80px;
+    text-decoration: none;  
+}
+
+
+.line{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    color: #71471d;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    font-family: "Quicksand", serif;
+    text-align: center;
+    
+
+}
+.bok{
+    font-size: 25px;
+    word-spacing: 40px;
+    text-decoration: none;
+    color: #351d06;
+}
+
+.bok2{
+word-spacing: 50px;
+text-decoration: none;
+color: #351d06;
+}
+
+.reason-title{
+    font-weight: 650;
+    font-size: 25px;
+    line-height: 50px;
+    color: #351d06;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    font-family: "Quicksand", serif;
+    text-align: center;
+    margin-left: 10px;
+
+}
+
+.reason-list-item{
+    font-weight: 650;
+    font-size: 15px;
+    line-height: 17px;
+    color: #71471d;
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-family: "Quicksand", serif;
+    text-align: center;
+    margin-left: 10px;
+    text-decoration: none;
+
+}
+
+.columns{
+    text-align: center;
+}
+
+.reason-conteiner{
+    padding-right: 40px;
+    
+}
+
+
+.main-name:hover{
+    background-color: rgb(157, 128, 67);
+    text-align: center;
+}
+
+.main-name{
+background-color: #7d4f21;
+    color: rgb(193, 189, 168);
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+.reason-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.name{
+    font-size: 40px;
+}

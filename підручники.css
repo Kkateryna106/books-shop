@@ -1,0 +1,54 @@
+body{
+    background-color: #c0ab7a;
+    
+}
+
+.main-name:hover{
+    background-color: rgb(157, 128, 67);
+    text-align: center;
+}
+
+.main-name{
+background-color: #7d4f21;
+    color: rgb(193, 189, 168);
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    }
+
+    h1{
+        background-color: #7d4f21;
+        color: rgb(193, 189, 168);
+        padding: 20px;
+        text-align: center;
+    }
+    
+    h1{
+        margin: 0;
+        font-size: 60px;
+    }
+
+    .text2{
+        font-weight: 650;
+    font-size: 18px;
+    line-height: 20px;
+    color: #351d06;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-family:"Quicksand", serif;
+    text-align: center;
+    }
+
+    .reason-title{
+        font-weight: 650;
+        font-size: 25px;
+        line-height: 50px;
+        color: #351d06;
+        margin-top: 60px;
+        margin-bottom: 10px;
+        font-family: "Quicksand", serif;
+        text-align: center;
+        margin-left: 10px;
+    
+    }

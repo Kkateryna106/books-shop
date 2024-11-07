@@ -1,0 +1,148 @@
+body{
+    background-color: #c0ab7a;
+    
+}
+
+h1{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 55px;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-family: "PT Serif", serif;
+    text-align: center;
+
+}
+
+.text{
+    font-weight: 650;
+    font-size: 23px;
+    line-height: 20px;
+    color: #351d06;
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-family:"Quicksand", serif;
+    text-align: center;
+}
+
+.menu{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    color: #7d4f21;
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-family: "Quicksand", serif;
+    text-align: center;
+    word-spacing: 50px;
+}
+
+.menu1{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    color: #7d4f21;
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-family: "Quicksand", serif;
+    text-align: center;
+    text-decoration-line: none;
+}
+
+.d1{
+    width: 250px;
+    height: 300px;
+    transition: transform 0.5s ease;
+}
+
+.d3{
+    width: 250px;
+    height: 300px;   
+}
+
+.literature-choice{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    color: #71471d;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    font-family: "Quicksand", serif;
+    word-spacing: 10px;
+    text-decoration-line: none;
+}
+
+.menu2{
+    word-spacing: 8px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    color: #7d4f21;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    font-family: "Quicksand", serif;
+    text-align: center;
+    text-decoration-line: none;
+  
+}
+
+.front-end-content{
+    text-align: center;
+    transition: 0.5s ease;
+}
+.front-end-content:hover{
+    background-color: rgb(157, 128, 67);
+}
+
+.end1{
+    font-weight: 650;
+    font-size: 25px;
+    line-height: 8px;
+    color: #351d06;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-family: "Quicksand", serif;
+    text-align: center;
+    margin-left: 10px;
+
+}
+
+h1{
+    background-color: #7d4f21;
+    color: rgb(193, 189, 168);
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    font-size: 100px;
+}
+
+.other-content{
+    text-align: right;
+}
+
+    
+.container{
+    word-spacing: 100px;
+    text-align: center;
+    margin-top: 50px;
+    }
+
+    .animated-text {
+        font-size: 24px;
+        font-family: "Quicksand", serif;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: 2px solid black;
+        padding-right: 5px;
+      }
+
+
+
+    
+
+

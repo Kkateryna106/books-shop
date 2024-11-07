@@ -1,0 +1,107 @@
+body{
+    background-color: #c0ab7a;
+    
+}
+
+h1{
+    background-color: #7d4f21;
+    color: rgb(193, 189, 168);
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    font-size: 60px;
+}
+
+.text2{
+    font-weight: 650;
+font-size: 18px;
+line-height: 20px;
+color: #351d06;
+margin-top: 20px;
+padding-bottom: 20px;
+font-family:"Quicksand", serif;
+text-align: center;
+}
+
+.fantasy-book11{
+    width: 250px;
+    height: 350px;
+    font-size: 30px;
+}
+
+.fantasy-book12{
+    width: 250px;
+    height: 350px;
+    margin-right: 80px;
+    margin-left: 60px;
+}
+
+.fantasy-book13{
+    width: 250px;
+    height: 350px;
+    margin-right: 80px;
+}
+
+.fantasy-book14{
+    width: 250px;
+    height: 350px;
+    margin-right: 60px;
+}
+
+.fantasy-book15{
+    width: 250px;
+    height: 350px;
+}
+
+.fantasy-book1{
+    color: #351d06;
+    font-family:"Quicksand", serif;
+
+}
+
+.fantasy-book2{
+    color: #351d06;
+    font-family:"Quicksand", serif;
+
+}
+
+.fantasy-book3{
+    color: #351d06;
+    font-family:"Quicksand", serif;
+
+}
+
+.fantasy-book4{
+    color: #351d06;
+    font-family:"Quicksand", serif;
+
+}
+.fantasy-book5{
+    color: #351d06;
+    font-family:"Quicksand", serif;
+
+}
+
+.g34{
+font-size: 30px;
+color: #351d06;
+    font-family:"Quicksand", serif;
+
+}
+
+.main-name:hover{
+    background-color: rgb(157, 128, 67);
+    text-align: center;
+}
+
+.main-name{
+background-color: #7d4f21;
+    color: rgb(193, 189, 168);
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    }
